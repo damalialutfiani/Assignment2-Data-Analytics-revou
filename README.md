@@ -1,5 +1,4 @@
 # Data-Cleaning-NYC-AirBnB-2019-Project
-------------------------------------------------------------------------------------
 A project from Mini Course assignment case study by RevoU.
 This case study was given in the mini course batch in June.
 ------------------------------------------------------------------------------------
