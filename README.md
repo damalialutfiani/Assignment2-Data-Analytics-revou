@@ -18,4 +18,6 @@ In the work on the AirBnB NYC 2019 Project, the focus is on how the **Data explo
 
 The following is a description of the file used :
 1. Cleaning data using python as in the **studycase_minicourse.py** file.
-2. In the file there is a step-by-step procedure for cleaning data.
+2. Same as using python regarding the data exploration steps, only the file extension is different, where the file **Studycase_minicourse.ipynb** can be used for Jupyter Notebook.
+
+-- In this project, we use Jupyter Notebook with python for Data Exploration --
