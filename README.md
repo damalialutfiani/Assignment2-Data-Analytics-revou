@@ -21,6 +21,7 @@ The following is a description of the file used :
 1. Cleaning data using python as in the **studycase_minicourse.py** file.
 2. Same as using python regarding the data exploration steps, only the file extension is different, where the file **Studycase_minicourse.ipynb** can be used for Jupyter Notebook.
 3. The file with the Power Point extension (**ASSIGNMENT2.pptx**) contains the steps and the results of the work that has been done.
+4. The file with the Portable Document Format (PDF) extension (**ASSIGNMENT2.pdf**) contains the steps and the results of the work same as the PPT file, that has been done.
 
 The steps for Data Cleaning are as follows :
 1. Change data type : *last_review* column become datetime, *latitude and longitude* colume become objects
