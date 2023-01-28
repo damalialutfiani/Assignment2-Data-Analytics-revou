@@ -12,7 +12,8 @@ Since 2008, guests and hosts have used Airbnb to expand on traveling possibiliti
 
 This data file includes all needed information to find out more about hosts, geographical availability, necessary metrics to make predictions and draw conclusions.
 
-Taken from [kaggle.com by DGOMONOV](https://id.traasgpu.com/cara-menggunakan-bay-area-bike-share/)
+-- Taken from [kaggle.com by DGOMONOV](https://id.traasgpu.com/cara-menggunakan-bay-area-bike-share/) --
+
 -----------------------------------------------------------------------------------
 
 In the work on the AirBnB NYC 2019 Project, the focus is on how the **Data exploration** steps are carried out, starting from **Previewing Data**, doing **Data Cleaning**, until the data is **ready to be used for visualization**.
