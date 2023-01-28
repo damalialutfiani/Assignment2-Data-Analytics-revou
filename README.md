@@ -31,3 +31,5 @@ The steps for Data Cleaning are as follows :
 5. Remove unnecessary data
 
 -- In this project, we use Jupyter Notebook with python for Data Exploration --
+
+-- THANK YOU [@damalialutfiani](https://www.linkedin.com/in/damalialutfiani/) --
